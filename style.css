@@ -217,6 +217,9 @@ ul{
     flex:0 0 55%;
     max-width: 55%;
 }
+.home .home-info .hello,.profession{
+    color: var(--text-black-900);
+}
 h3.hello{
     font-size: 28px;
     margin: 15px 0px;
@@ -392,6 +395,9 @@ section .title{
     flex: 0 0 100%;
     max-width: 100%;
     /* background-color: red; */
+}
+.about .about-content .skills .skill-item{
+    color: var(--text-black-900);
 }
 .about .about-content .skills .skill-item h5{
     line-height: 40px;

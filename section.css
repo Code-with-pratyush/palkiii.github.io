@@ -40,6 +40,9 @@
     max-width: 33.33%;
     padding: 20px;
 }
+.services .service-item .service-item-inner p{
+    color: var(--text-black-900);
+}
 .services .service-item .service-item-inner{
     background-color: var(--bg-black-100);
     border: 1px solid var(--bg-black-50);
